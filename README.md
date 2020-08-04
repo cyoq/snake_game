@@ -1,7 +1,7 @@
 # Snake game
 Simple snake game in Rust using Piston library.
 
-![image](https://github.com/cyoq/snake_game/blob/master/misc/game.png)
+![gif](misc/gif.gif)
 
 # Building and running
 To build the app, use:
